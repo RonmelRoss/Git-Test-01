@@ -1,2 +1,3 @@
 this is another file
 this file is for testing git commit --amend
+another testing for git git commit --amend
